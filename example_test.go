@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/f0x4n6/go-mmap"
+	"go.foxforensics.dev/go-mmap"
 )
 
 func ExampleMapRegion() {

@@ -1,4 +1,4 @@
-module github.com/f0x4n6/go-mmap
+module go.foxforensics.dev/go-mmap
 
 go 1.26
 
